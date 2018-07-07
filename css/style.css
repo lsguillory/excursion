@@ -1,3 +1,33 @@
 body {
-  background-color: orangered;
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-family: Verdana, sans-serif;
+}
+
+#head {
+  font-size: 50px;
+  font-weight: normal;
+}
+
+#download {
+  font-size: 16px;
+  color: aquamarine;
+}
+
+#video {
+  margin-top: 70px;
+}
+
+div#travel {
+  margin-top: 100px;
+}
+
+#travSub {
+  font-size: 21px;
+  color: gray;
+}
+h2 {
+  font-weight: 300px;
+  font-size: 42px;
 }
