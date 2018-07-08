@@ -12,6 +12,10 @@ body {
 
 #download {
   font-size: 16px;
+}
+
+a {
+  text-decoration: none;
   color: aquamarine;
 }
 
@@ -30,4 +34,12 @@ div#travel {
 h2 {
   font-weight: 300px;
   font-size: 42px;
+}
+div#phone {
+  margin-top: 50px;
+}
+.footer {
+  text-align: right;
+  margin-right: 20px;
+  margin-top: 30px;
 }
